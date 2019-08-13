@@ -1,4 +1,4 @@
-#Kodlar İbrahim BAYRAMLI tarafından yazılmıştır.
+#İbrahim BAYRAMLI tarafından yazılmıştır.
 
 while True:
     a=float(input("Vize Notunuzu Giriniz: "))
