@@ -1,4 +1,9 @@
-#İbrahim BAYRAMLI tarafından yazılmıştır.
+"""
+
+   İbrahim BAYRAMLI tarafından yazılmıştır
+   https://sites.google.com/view/ibrahim-bayramli
+   
+ """
 
 while True:
     a=float(input("Vize Notunuzu Giriniz: "))
